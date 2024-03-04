@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VikingsChess:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VikingsChess_jar</output-path>
+    <root id="archive" name="VikingsChess.jar">
+      <element id="module-output" name="VikingsChess" />
+    </root>
+  </artifact>
+</component>
